@@ -1,0 +1,6 @@
+{
+  "name": "FixIt - Campus Maintenance Portal",
+  "description": "A self-contained campus maintenance ticket website prototype to raise, track, and resolve facility requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
